@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "OmnibusRegular";
+  src: url("fonts/Omnibus-Sans-Serif.afm");
+  src: url("fonts/Omnibus-Sans-Serif.g2n");
+  src: url("fonts/Omnibus-Sans-Serif.ofm");
+  src: url("fonts/Omnibus-Sans-Serif.otf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  color:ghostwhite;
+  font-family: "OmnibusRegular";
+  text-align: center;
+  background-image: url("img/future2.gif");
+  background-size: cover;
+}
+form {
+  display: inline-block;
+}
+
+.caixa-inicial-texto-nome-completo {
+    margin-top: 2rem
+}
+
+.caixa-inicial-texto-email {
+    margin-top: 2rem;
+}
+
+.formbuilder-radio-group {
+    margin-top: 2rem;
+}
+
+
+
