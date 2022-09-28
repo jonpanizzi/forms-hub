@@ -1,0 +1,3 @@
+Utilizar search for *numero cpf* in Users's cpf's no db Banco
+
+Tentar reutilizar isso nos benefícios, evitando lista de listas
